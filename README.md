@@ -1,7 +1,7 @@
 # gitbash guideline for add existing file
 
-## Important 🌟:U+1F973:
-######Some basic Git commands are:
+## Important 🌟
+###Some basic Git commands are:
 
 ```
 1. cd "project file name"
