@@ -1,7 +1,7 @@
 # gitbash guideline for add existing file
 
 ## Important 🌟
-###Some basic Git commands are:
+Some basic Git commands are:
 
 ```
 1. cd "project file name"
@@ -19,6 +19,5 @@ to remove reinitialized existing Git repository in using : rm -rf .git
 ---
 [1]: https://github.com/asofiyatukiran
 
----
 
 
