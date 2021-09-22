@@ -13,7 +13,9 @@ to remove reinitialized existing Git repository in using : rm -rf .git
 7. git push origin master
 
 ---
-[![github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)][1]
+[![github](https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png)][1]
 ---
 [1]: https://github.com/asofiyatukiran
+
+![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
 
